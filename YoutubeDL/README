@@ -1,3 +1,5 @@
+This has only been tested on SUSE 13.2
+
 Before you start, you need to install youtube-dl, ffmpeg and lame
 
 Two ways to achieve this (SUSE Linux):
